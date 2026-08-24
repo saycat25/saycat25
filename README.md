@@ -2,70 +2,65 @@
 
 <div align="center">
 
-<img src="./assets/janela.gif" width="100%" alt="Scarlet banner" />
+<!-- Banner principal: coloque o arquivo como janela.gif na raiz do repositório -->
+<img src="./janela.gif" width="100%" alt="Scarlet banner" />
 
 # 💜 Scarlet
 
 ### `AI Builder • Python Developer • Minecraft Modder • Discord Bot Creator`
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=900&color=C084FC&center=true&vCenter=true&width=850&lines=Construindo+IA+que+realmente+faz+coisas;Bots%2C+agentes%2C+mem%C3%B3ria+e+automa%C3%A7%C3%A3o;Python+%7C+Discord+%7C+Minecraft+%7C+APIs;Transformando+ideias+estranhas+em+projetos+reais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=900&color=C084FC&center=true&vCenter=true&width=850&lines=Construindo+IA+que+realmente+faz+coisas;Bots%2C+agentes%2C+mem%C3%B3ria+e+automa%C3%A7%C3%A3o;Python+%7C+Discord+%7C+Minecraft+%7C+APIs;Transformando+ideias+em+projetos+reais" alt="Typing SVG" />
 
 <p>
-  <a href="#about"><img src="https://img.shields.io/badge/ABOUT-7C3AED?style=flat-square&labelColor=0F172A" /></a>
-  <a href="#building"><img src="https://img.shields.io/badge/BUILDING-8B5CF6?style=flat-square&labelColor=0F172A" /></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/STACK-A855F7?style=flat-square&labelColor=0F172A" /></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/PROJECTS-C084FC?style=flat-square&labelColor=0F172A" /></a>
-  <a href="#stats"><img src="https://img.shields.io/badge/STATS-7C3AED?style=flat-square&labelColor=0F172A" /></a>
+  <a href="#sobre"><img src="https://img.shields.io/badge/✦%20SOBRE-7C3AED?style=flat-square&labelColor=0F172A" /></a>
+  <a href="#agora"><img src="https://img.shields.io/badge/♡%20AGORA-8B5CF6?style=flat-square&labelColor=0F172A" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/✧%20STACK-A855F7?style=flat-square&labelColor=0F172A" /></a>
+  <a href="#projetos"><img src="https://img.shields.io/badge/☾%20PROJETOS-C084FC?style=flat-square&labelColor=0F172A" /></a>
+  <a href="#stats"><img src="https://img.shields.io/badge/✦%20STATS-7C3AED?style=flat-square&labelColor=0F172A" /></a>
 </p>
 
 </div>
 
 ---
 
-<a id="about"></a>
+<a id="sobre"></a>
 ## ✦ Sobre mim
 
-> *"Eu gosto de pegar uma ideia que parece impossível e descobrir até onde dá para levar."*
+> *“Eu gosto de pegar uma ideia estranha, transformar em código e descobrir até onde ela consegue chegar.”*
 
-Eu sou **Scarlet**, também conhecido como **saycat25**. Gosto de construir software que vai além de uma simples tela ou de um comando isolado: prefiro sistemas que conseguem **conversar entre si, lembrar, automatizar tarefas e crescer com o tempo**.
+Eu sou **Scarlet**, também conhecido como **saycat25**. Meu foco é transformar ideias em sistemas funcionais, principalmente envolvendo **Inteligência Artificial, Python, Discord, Minecraft, automação e integrações entre ferramentas**.
 
-Meu foco passa principalmente por **Inteligência Artificial, Python, bots do Discord, Minecraft, automação, APIs e arquitetura modular**. Também gosto de criar ferramentas experimentais e transformar protótipos em projetos cada vez mais completos.
+Não gosto muito de projetos que terminam em uma única tela ou em um único comando. Prefiro construir coisas que possam **conversar entre si, ganhar novas funções e continuar crescendo**.
 
 ```python
 scarlet = {
     "role": "AI Builder / Developer",
     "focus": [
         "AI systems",
-        "agents & memory",
+        "agents + memory",
         "Discord automation",
         "Minecraft projects",
         "modular architecture",
     ],
-    "principle": "se dá para construir, vale a pena experimentar",
-    "current_mode": "building something that probably needs another module",
+    "principle": "primeiro funciona, depois fica bonito, depois fica melhor ainda",
+    "status": "provavelmente criando mais um módulo",
 }
 ```
 
-### 🌙 Em poucas palavras
+<div align="center">
 
-- 🤖 Construo sistemas e ferramentas com IA
-- 🐍 Uso principalmente Python
-- 💬 Crio bots e integrações para Discord
-- 🎮 Exploro mods e sistemas personalizados para Minecraft
-- 🧠 Gosto de memória, RAG, agentes e ferramentas
-- ⚙️ Prefiro projetos modulares e fáceis de expandir
-- 🧪 Tenho uma queda por projetos experimentais
+`🤖 IA` &nbsp; `🐍 Python` &nbsp; `💬 Discord` &nbsp; `🎮 Minecraft` &nbsp; `⚙️ Automação` &nbsp; `🧩 Sistemas Modulares`
+
+</div>
 
 ---
 
-<a id="building"></a>
+<a id="agora"></a>
 ## ♡ Construindo agora
 
-### 🧠 Hanako — AI Modular
+### 🧠 Hanako
 
-A **Hanako** é um dos meus principais projetos: uma plataforma de IA pensada para ser muito mais do que um chatbot.
-
-A proposta é criar uma arquitetura onde diferentes componentes possam trabalhar juntos sem transformar o projeto inteiro em um único bloco de código.
+A **Hanako** é uma das ideias centrais dos meus projetos: uma IA modular pensada para ir além de uma simples interface de chat.
 
 ```text
 Hanako
@@ -74,7 +69,7 @@ Hanako
 ├── 💾 Memory
 ├── 🔎 RAG
 ├── 🤖 Agents
-├── 🛠️ Tool Calling
+├── 🛠️ Tools
 ├── 🔐 Permissions
 ├── 👤 Sessions
 ├── 🧩 Modules
@@ -84,11 +79,11 @@ Hanako
 └── 🌐 API
 ```
 
-A ideia é simples: **uma IA extensível, modular e preparada para receber novas capacidades.**
+A ideia é poder adicionar capacidades novas sem transformar o projeto inteiro em um arquivo gigantesco.
 
 ### 💬 Discord Systems
 
-Também gosto de transformar bots em interfaces para sistemas maiores.
+Também gosto de usar o Discord como uma interface para sistemas maiores:
 
 ```text
 Discord
@@ -105,8 +100,6 @@ Discord
        Backend
 ```
 
-Em vez de pensar somente em `/comando → resposta`, a ideia é criar uma ponte entre o Discord e diferentes serviços, ferramentas e sistemas.
-
 ---
 
 <a id="stack"></a>
@@ -122,7 +115,7 @@ Em vez de pensar somente em `/comando → resposta`, a ideia é criar uma ponte 
 <img src="https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=F97316" />
 <img src="https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=C084FC" />
 
-### 🤖 IA & Automação
+### 🤖 IA & Sistemas
 
 <img src="https://img.shields.io/badge/Gemini-0F172A?style=for-the-badge&logo=google&logoColor=8B5CF6" />
 <img src="https://img.shields.io/badge/Groq-0F172A?style=for-the-badge&logo=groq&logoColor=F97316" />
@@ -131,7 +124,7 @@ Em vez de pensar somente em `/comando → resposta`, a ideia é criar uma ponte 
 <img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge&logoColor=C084FC" />
 <img src="https://img.shields.io/badge/Memory-0F172A?style=for-the-badge&logoColor=C084FC" />
 
-### 🎮 Minecraft
+### 🎮 Game Development
 
 <img src="https://img.shields.io/badge/Minecraft-0F172A?style=for-the-badge&logo=minecraft&logoColor=62D84E" />
 <img src="https://img.shields.io/badge/NeoForge-0F172A?style=for-the-badge&logoColor=C084FC" />
@@ -147,41 +140,64 @@ Em vez de pensar somente em `/comando → resposta`, a ideia é criar uma ponte 
 
 ---
 
-<a id="projects"></a>
-## ☾ Projetos & ideias
+<a id="projetos"></a>
+## ☾ Projetos
+
+<div align="center">
+
+<a href="https://github.com/saycat25/skynet">
+<img src="https://img.shields.io/badge/☁%20SkyNet-IA%20%26%20Sistemas-7C3AED?style=for-the-badge&labelColor=0F172A" />
+</a>
+
+<a href="https://github.com/saycat25/SigillareForms">
+<img src="https://img.shields.io/badge/✦%20SigillareForms-Web%20%26%20Sistemas-A855F7?style=for-the-badge&labelColor=0F172A" />
+</a>
+
+<a href="https://github.com/saycat25/plugin-pessoal-beta">
+<img src="https://img.shields.io/badge/🧩%20Plugin%20Pessoal-Automa%C3%A7%C3%A3o-C084FC?style=for-the-badge&labelColor=0F172A" />
+</a>
+
+<a href="https://github.com/saycat25/instabtcoin">
+<img src="https://img.shields.io/badge/₿%20InstaBTCoin-Web%20%26%20APIs-8B5CF6?style=for-the-badge&labelColor=0F172A" />
+</a>
+
+<a href="https://github.com/saycat25/guardian-whisper-46">
+<img src="https://img.shields.io/badge/🛡️%20Guardian%20Whisper-Automation-7C3AED?style=for-the-badge&labelColor=0F172A" />
+</a>
+
+<a href="https://github.com/saycat25/MrBeast-Plugin">
+<img src="https://img.shields.io/badge/⚙️%20MrBeast%20Plugin-Plugin-A855F7?style=for-the-badge&labelColor=0F172A" />
+</a>
+
+</div>
 
 ### 🧠 Hanako
 
-Arquitetura de IA modular com LLMs, memória, RAG, ferramentas, permissões, sessões, módulos e diferentes interfaces.
-
-### 🤖 Discord Assistant
-
-Sistemas de Discord focados em automação, comandos, eventos, IA, ferramentas externas e integração com backends.
+Arquitetura de IA modular com memória, RAG, ferramentas, sessões, permissões e integrações.
 
 ### 🎮 Minecraft Projects
 
-Mods e sistemas personalizados envolvendo **NeoForge**, comandos, personagens, interfaces, mecânicas, dimensões e integração entre sistemas.
+Projetos envolvendo **NeoForge**, mods, comandos, personagens, dimensões, interfaces e mecânicas personalizadas.
 
 ### ⚙️ Experimental Tools
 
-Pequenas ideias que acabam virando ferramentas maiores: automação, APIs, interfaces, integrações e experiências para testar novas possibilidades.
+Ideias, automações, APIs e ferramentas que começam pequenas e acabam virando sistemas maiores.
 
 ---
 
-<a id="architecture"></a>
-## 🧩 Como gosto de construir
+## 🧩 Arquitetura
 
-Eu tento evitar projetos onde existe um arquivo gigante responsável por absolutamente tudo.
+Eu tento evitar:
 
 ```text
 ❌ projeto.py
    ├── tudo
    ├── mais tudo
-   ├── mais uma coisa
+   ├── absolutamente tudo
    └── socorro
 ```
 
-Prefiro algo mais próximo de:
+E prefiro:
 
 ```text
 project/
@@ -206,25 +222,21 @@ project/
     └── environment/
 ```
 
-**Modularidade não é só organização: é o que permite que uma ideia continue crescendo sem virar um caos.**
+> **Modularidade é o que permite que uma ideia continue crescendo sem virar um caos.**
 
 ---
 
 <a id="stats"></a>
-## ✦ GitHub Stats
+## ✦ Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saycat25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saycat25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" />
+<img src="https://github-readme-stats.vercel.app/api?username=saycat25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saycat25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" height="170" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saycat25&theme=tokyonight&hide_border=true&locale=pt_BR" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saycat25&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+<img src="https://komarev.com/ghpvc/?username=saycat25&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -232,7 +244,7 @@ project/
 
 ## 🌌 Filosofia
 
-> **"Se dá para transformar uma ideia em código, então vale a pena tentar."**
+> **“Se dá para transformar uma ideia em código, então vale a pena tentar.”**
 
 Muitos projetos começam com uma pergunta simples:
 
@@ -240,9 +252,7 @@ Muitos projetos começam com uma pergunta simples:
 "Será que dá para fazer isso?"
 ```
 
-Depois vêm os testes, os erros, os bugs, mais testes...
-
-E, eventualmente:
+Depois vêm os testes, os bugs, as melhorias e, eventualmente:
 
 ```text
 "Por que isso tem 14 módulos?"
@@ -290,8 +300,6 @@ Interests:
 
 ---
 
-## 💜 Onde me encontrar
-
 <div align="center">
 
 <a href="https://github.com/saycat25">
@@ -299,14 +307,6 @@ Interests:
 </a>
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=saycat25&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
----
-
-<div align="center">
 
 ### 🪻 Obrigado por visitar meu perfil!
 
