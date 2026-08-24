@@ -1,26 +1,44 @@
 <div align="center">
 
-# 🩵 saycat25
+# 💜 Scarlet
 
 ### `Developer • AI Builder • Minecraft Modder • Discord Bot Creator`
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=800&lines=Construindo+IA+que+realmente+faz+coisas;Python+%7C+Discord+%7C+Minecraft+%7C+IA;Criando+ferramentas%2C+mods+e+sistemas+inteligentes;Transformando+ideias+em+projetos+reais" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=Construindo+IA+que+realmente+faz+coisas;Python+%7C+Discord+%7C+Minecraft+%7C+IA;Criando+ferramentas%2C+mods+e+sistemas+inteligentes;Transformando+ideias+em+projetos+reais" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:7c3aed&height=180&section=header&text=saycat25&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="saycat25 banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:581c87,100:7c3aed&height=180&section=header&text=Scarlet&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Scarlet banner" />
 
 </div>
 
 ---
 
-## 🩵 Sobre mim
+## 🌙 Sobre mim
 
-Olá! Eu sou o **saycat25**.
+Olá! Eu sou a **Scarlet** — `saycat25` no GitHub.
 
-Gosto de transformar ideias em projetos que realmente funcionam — principalmente envolvendo **Inteligência Artificial, automação, bots, Minecraft e ferramentas de programação**.
+Gosto de transformar ideias em projetos que realmente funcionam, principalmente envolvendo **Inteligência Artificial, automação, bots, Minecraft e ferramentas de programação**.
 
-Não gosto muito da ideia de criar apenas um projeto "bonitinho". Minha preferência é construir sistemas que tenham **funções reais, módulos, integração entre componentes e espaço para crescer**.
+Também gosto de experimentar novas ideias, criar sistemas diferentes e transformar projetos pequenos em coisas cada vez maiores.
 
-Atualmente meus interesses passam principalmente por:
+### 🪻 Sobre mim
+
+<div align="center">
+
+| | Informação |
+|---|---|
+| 🌸 **Nome** | **Scarlet** |
+| 🪻 **Gênero** | **Genderfluid** |
+| 🖤 **Identidade** | **Femboy** |
+| 💜 **Pronomes** | **ele/dele • ela/dela** |
+| 💻 **GitHub** | **saycat25** |
+
+</div>
+
+> ✨ Pode usar **ele/dele** ou **ela/dela** comigo.
+
+---
+
+## 💜 Meus interesses
 
 - 🤖 Inteligência Artificial
 - 🐍 Python
@@ -31,6 +49,7 @@ Atualmente meus interesses passam principalmente por:
 - 🧩 Sistemas modulares
 - 🛠️ Ferramentas para desenvolvedores
 - 🌐 APIs e integração entre sistemas
+- 🎨 Personalização e interfaces
 
 ---
 
@@ -147,11 +166,11 @@ Isso permite transformar o bot em uma interface para sistemas muito maiores.
 
 ### 🐍 Linguagens
 
-<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=7dd3fc" />
+<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=c084fc" />
 <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=f97316" />
 <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=facc15" />
 <img src="https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=f97316" />
-<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=c084fc" />
 
 ### 🤖 Inteligência Artificial
 
@@ -162,13 +181,13 @@ Isso permite transformar o bot em uma interface para sistemas muito maiores.
 ### 🎮 Game Development
 
 <img src="https://img.shields.io/badge/Minecraft-0f172a?style=for-the-badge&logo=minecraft&logoColor=62d84e" />
-<img src="https://img.shields.io/badge/NeoForge-0f172a?style=for-the-badge&logoColor=7dd3fc" />
+<img src="https://img.shields.io/badge/NeoForge-0f172a?style=for-the-badge&logoColor=c084fc" />
 
 ### 🔧 Ferramentas
 
 <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=f97316" />
 <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=38bdf8" />
+<img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=c084fc" />
 <img src="https://img.shields.io/badge/SQLite-0f172a?style=for-the-badge&logo=sqlite&logoColor=38bdf8" />
 
 </div>
@@ -357,7 +376,7 @@ Interests:
 
 ---
 
-# 📫 Contato
+# 💜 Scarlet na internet
 
 <div align="center">
 
@@ -371,12 +390,12 @@ Interests:
 
 <div align="center">
 
-### 🩵 Obrigado por visitar meu perfil!
+### 🪻 Obrigado por visitar meu perfil!
 
 <img src="https://komarev.com/ghpvc/?username=saycat25&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:164e63,100:0f172a&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:581c87,100:0f172a&height=120&section=footer" alt="footer" />
 
 </div>
